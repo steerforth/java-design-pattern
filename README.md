@@ -9,3 +9,4 @@
 7.builder 建造者模式
 8.abstract factory 抽象工厂模式
 9.bridge 桥接模式
+10.strategy 策略模式
