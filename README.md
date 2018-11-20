@@ -11,3 +11,4 @@
 9.bridge 桥接模式
 10.strategy 策略模式
 11.composite 组合模式
+12.decorator 装饰器模式
