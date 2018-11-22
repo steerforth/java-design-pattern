@@ -13,6 +13,7 @@
 11.composite 组合模式
 12.decorator 装饰器模式
 13.Visitor 访问者模式
+14.Chain of Responsibility 责任链模式
 
 
 
