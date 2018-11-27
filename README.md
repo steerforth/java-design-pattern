@@ -14,7 +14,8 @@
 12.decorator 装饰器模式
 13.Visitor 访问者模式
 14.Chain of Responsibility 责任链模式
-
+15.facade 外观模式
+16.mediator 中介者模式
 
 
 面向对象设计模式中:

@@ -29,6 +29,7 @@ hs_err_pid*
 *.iws
 *.ipr
 .idea
+out/
 
 #mac
 .DS_Store
