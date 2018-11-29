@@ -17,6 +17,7 @@
 15.facade 外观模式
 16.mediator 仲裁者模式
 17.observer 观察者模式
+18.memento 备忘录模式
 
 
 面向对象设计模式中:
