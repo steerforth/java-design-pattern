@@ -18,6 +18,8 @@
 16.mediator 仲裁者模式
 17.observer 观察者模式
 18.memento 备忘录模式
+19.state 状态模式
+20.flyweight 享元模式
 
 
 面向对象设计模式中:
