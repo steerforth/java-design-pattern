@@ -20,6 +20,7 @@
 18.memento 备忘录模式
 19.state 状态模式
 20.flyweight 享元模式
+21.proxy 代理模式
 
 
 面向对象设计模式中:
