@@ -22,6 +22,7 @@
 20.flyweight 享元模式
 21.proxy 代理模式
 22.command 命令模式
+23.interpreter 解释器模式
 
 
 面向对象设计模式中:
