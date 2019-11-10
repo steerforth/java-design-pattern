@@ -1,11 +1,12 @@
-package com.steer.design.proxy;
+package com.steer.design.proxy.proxy1;
 
 /**
  * 二十一、代理模式
  */
 public class Main {
     /**
-     * 代理人和实际主体有一致性的接口
+     * 静态代理
+     * 代理类PrinterProxy和被代理类Printer有一致性的接口Printable
      * Virtual Proxy虚拟代理：在真正需要时，才生成真实主体的实例。例子就是
      * remote Proxy远程代理：
      * Access Proxy:

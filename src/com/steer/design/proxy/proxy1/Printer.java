@@ -1,4 +1,4 @@
-package com.steer.design.proxy;
+package com.steer.design.proxy.proxy1;
 
 public class Printer implements Printable {
     private String name;
